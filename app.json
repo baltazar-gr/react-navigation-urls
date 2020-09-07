@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "expo-url",
+    "scheme": "wiz",
     "slug": "expo-url",
     "version": "1.0.0",
     "orientation": "portrait",
